@@ -2,15 +2,15 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "2015.11.15": "ウィキペディアタウン水戸 ＠偕楽園", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 140.456111, 36.373056 ] } },
-{ "type": "Feature", "properties": { "2016.1.16": "ウィキペディアタウン水戸 ＠弘道館", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 140.477, 36.3753 ] } },
-{ "type": "Feature", "properties": { "2016.4.24": "Wikipedia Town 筑波山", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 140.090872, 36.214194 ] } },
-{ "type": "Feature", "properties": { "2016.10.22": "ウィキペディアタウン水戸 ＠植物公園", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 140.419167, 36.342222 ] } },
-{ "type": "Feature", "properties": { "2016.10.30": "第2回 ウィキペディアタウン筑波山", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 140.113144, 36.154717 ] } },
-{ "type": "Feature", "properties": { "2017.8.28": "ウィキペディアタウン＠備中路2017【玉島地区】", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 133.671686, 34.543342 ] } },
-{ "type": "Feature", "properties": { "2017.8.29": "ウィキペディアタウン＠備中路2017【矢掛地区】", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 133.588169, 34.623733 ] } },
-{ "type": "Feature", "properties": { "2017.8.30": "ウィキペディアタウン＠備中路2017【吹屋地区】", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 133.468853, 34.861756 ] } },
-{ "type": "Feature", "properties": { "2017.9.30": "第1回ウィキペディアタウンin浜松", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 137.724786, 34.704672 ] } },
-{ "type": "Feature", "properties": { "2018.9.8": "島ペディア＠備前『日生諸島』", "marker-symbol": "-number"}, "geometry": { "type": "Point", "coordinates": [ 134.29661, 34.682694 ] } }
+{ "type": "Feature", "properties": { "2015.11.15": "ウィキペディアタウン水戸 ＠偕楽園"}, "geometry": { "type": "Point", "coordinates": [ 140.456111, 36.373056 ] } },
+{ "type": "Feature", "properties": { "2016.1.16": "ウィキペディアタウン水戸 ＠弘道館"}, "geometry": { "type": "Point", "coordinates": [ 140.477, 36.3753 ] } },
+{ "type": "Feature", "properties": { "2016.4.24": "Wikipedia Town 筑波山"}, "geometry": { "type": "Point", "coordinates": [ 140.090872, 36.214194 ] } },
+{ "type": "Feature", "properties": { "2016.10.22": "ウィキペディアタウン水戸 ＠植物公園"}, "geometry": { "type": "Point", "coordinates": [ 140.419167, 36.342222 ] } },
+{ "type": "Feature", "properties": { "2016.10.30": "第2回 ウィキペディアタウン筑波山"}, "geometry": { "type": "Point", "coordinates": [ 140.113144, 36.154717 ] } },
+{ "type": "Feature", "properties": { "2017.8.28": "ウィキペディアタウン＠備中路2017【玉島地区】"}, "geometry": { "type": "Point", "coordinates": [ 133.671686, 34.543342 ] } },
+{ "type": "Feature", "properties": { "2017.8.29": "ウィキペディアタウン＠備中路2017【矢掛地区】"}, "geometry": { "type": "Point", "coordinates": [ 133.588169, 34.623733 ] } },
+{ "type": "Feature", "properties": { "2017.8.30": "ウィキペディアタウン＠備中路2017【吹屋地区】"}, "geometry": { "type": "Point", "coordinates": [ 133.468853, 34.861756 ] } },
+{ "type": "Feature", "properties": { "2017.9.30": "第1回ウィキペディアタウンin浜松"}, "geometry": { "type": "Point", "coordinates": [ 137.724786, 34.704672 ] } },
+{ "type": "Feature", "properties": { "2018.9.8": "島ペディア＠備前『日生諸島』"}, "geometry": { "type": "Point", "coordinates": [ 134.29661, 34.682694 ] } }
 ]
 }
