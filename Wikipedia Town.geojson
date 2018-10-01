@@ -11,6 +11,7 @@
 { "type": "Feature", "properties": { "2017.8.29": "ウィキペディアタウン＠備中路2017【矢掛地区】"}, "geometry": { "type": "Point", "coordinates": [ 133.588169, 34.623733 ] } },
 { "type": "Feature", "properties": { "2017.8.30": "ウィキペディアタウン＠備中路2017【吹屋地区】"}, "geometry": { "type": "Point", "coordinates": [ 133.468853, 34.861756 ] } },
 { "type": "Feature", "properties": { "2017.9.30": "第1回ウィキペディアタウンin浜松"}, "geometry": { "type": "Point", "coordinates": [ 137.724786, 34.704672 ] } },
-{ "type": "Feature", "properties": { "2018.9.8": "島ペディア＠備前『日生諸島』"}, "geometry": { "type": "Point", "coordinates": [ 134.29661, 34.682694 ] } }
+{ "type": "Feature", "properties": { "2018.9.8": "島ペディア＠備前『日生諸島』"}, "geometry": { "type": "Point", "coordinates": [ 134.29661, 34.682694 ] } },
+{ "type": "Feature", "properties": { "2018.9.30": "ウィキペディアタウン in 郡山"}, "geometry": { "type": "Point", "coordinates": [ 140.384738, 37.398162 ] } }
 ]
 }
