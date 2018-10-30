@@ -13,6 +13,8 @@
 { "type": "Feature", "properties": { "2017.9.30": "第1回ウィキペディアタウンin浜松"}, "geometry": { "type": "Point", "coordinates": [ 137.724786, 34.704672 ] } },
 { "type": "Feature", "properties": { "2018.9.8": "島ペディア＠備前『日生諸島』"}, "geometry": { "type": "Point", "coordinates": [ 134.29661, 34.682694 ] } },
 { "type": "Feature", "properties": { "2018.9.30": "ウィキペディアタウン in 郡山"}, "geometry": { "type": "Point", "coordinates": [ 140.384738, 37.398162 ] } },
-{ "type": "Feature", "properties": { "2018.10.7": "第2回ウィキペディアタウンin浜松"}, "geometry": { "type": "Point", "coordinates": [ 137.720006, 34.705322 ] } }
+{ "type": "Feature", "properties": { "2018.10.7": "第2回ウィキペディアタウンin浜松"}, "geometry": { "type": "Point", "coordinates": [ 137.720006, 34.705322 ] } },
+{ "type": "Feature", "properties": { "2018.10.27": "島ペディア＠備前『石島』"}, "geometry": { "type": "Point", "coordinates": [ 134.01631, 34.49489 ] } },
+{ "type": "Feature", "properties": { "2018.10.28": "島ペディア＠備前『犬島』"}, "geometry": { "type": "Point", "coordinates": [ 134.099797, 34.564511 ] } }
 ]
 }
