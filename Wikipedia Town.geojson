@@ -16,6 +16,7 @@
 { "type": "Feature", "properties": { "2018.10.7": "第2回ウィキペディアタウンin浜松"}, "geometry": { "type": "Point", "coordinates": [ 137.720006, 34.705322 ] } },
 { "type": "Feature", "properties": { "2018.10.27": "島ペディア＠備前『石島』"}, "geometry": { "type": "Point", "coordinates": [ 134.01631, 34.49489 ] } },
 { "type": "Feature", "properties": { "2018.10.28": "島ペディア＠備前『犬島』"}, "geometry": { "type": "Point", "coordinates": [ 134.099797, 34.564511 ] } },
-{ "type": "Feature", "properties": { "2018.11.10～11": "島ペディア＠備前『前島』"}, "geometry": { "type": "Point", "coordinates": [ 134.183333, 34.608611 ] } }
+{ "type": "Feature", "properties": { "2018.11.10～11": "島ペディア＠備前『前島』"}, "geometry": { "type": "Point", "coordinates": [ 134.183333, 34.608611 ] } },
+{ "type": "Feature", "properties": { "2023.7.22": "ウィキペディアタウン in 茨城"}, "geometry": { "type": "Point", "coordinates": [ 140.475508, 36.378007 ] } }
 ]
 }
